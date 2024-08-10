@@ -31,6 +31,13 @@ import store from "./online_store.jpg";
 import system from "./solar_system3D.jpg";
 import jobs from "./jobs_website.jpg";
 
+import univer_bach from "./university-b.jpg";
+import university_mast from "./university-m.jpeg";
+import school_main from "./school-main.jpg";
+import school1 from "./school_1.jpg";
+import school3 from "./school_3.jpg";
+import school5 from "./school_5.jpg";
+
 export {
   logo,
   backend,
@@ -62,4 +69,10 @@ export {
   store,
   system,
   jobs,
+  univer_bach,
+  university_mast,
+  school_main,
+  school1,
+  school3,
+  school5,
 };

@@ -27,6 +27,12 @@ import {
     store,
     system,
     jobs,
+    univer_bach,
+    university_mast,
+    school_main,
+    school1,
+    school3,
+    school5,
 } from "../assets";
 
 export const navLinks = [
@@ -223,30 +229,31 @@ const experiences = [
 
 const testimonials = [
     {
-        testimonial:
-            "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-        name: "Sara Lee",
-        designation: "CFO",
-        company: "Acme Co",
-        image: "https://randomuser.me/api/portraits/women/4.jpg",
+        description: "Bachelor's Journey",
+        image: univer_bach,
     },
     {
-        testimonial:
-            "I've never met a web developer who truly cares about their clients' success like Rick does.",
-        name: "Chris Brown",
-        designation: "COO",
-        company: "DEF Corp",
-        image: "https://randomuser.me/api/portraits/men/5.jpg",
+        description: "Mastering It All",
+        image: university_mast,
     },
     {
-        testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
+        description: "School Days",
+        image: school_main,
     },
+    {
+        description: "First Step Forward",
+        image: school1,
+    },
+    {
+        description: "Third-Grade Adventures",
+        image: school3,
+    },
+    {
+        description: "Fifth-Grade Memories",
+        image: school5,
+    }
 ];
+
 
 const projects = [
     {
