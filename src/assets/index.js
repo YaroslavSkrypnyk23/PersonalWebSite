@@ -30,6 +30,8 @@ import weather from "./weather_app.jpg";
 import store from "./online_store.jpg";
 import system from "./solar_system3D.jpg";
 import jobs from "./jobs_website.jpg";
+import nike from "./nike_shop.jpg";
+import brainwave from "./brainwave.jpg";
 
 import univer_bach from "./university-b.jpg";
 import university_mast from "./university-m.jpeg";
@@ -69,6 +71,8 @@ export {
   store,
   system,
   jobs,
+  nike,
+  brainwave,
   univer_bach,
   university_mast,
   school_main,

@@ -27,6 +27,8 @@ import {
     store,
     system,
     jobs,
+    nike,
+    brainwave,
     univer_bach,
     university_mast,
     school_main,
@@ -355,6 +357,56 @@ const projects = [
         ],
         image: system,
         source_code_link: "https://yaroslavskrypnyk23.github.io/SolarSystem/",
+    },
+    {
+        name: "Nike Online Store",
+        description:
+            "Online store of Nike products offering a wide range of sportswear, shoes, and accessories. The site features a sleek design and intuitive navigation, allowing users to explore collections easily.",
+        tags: [
+            {
+                name: "react",
+                color: "yellow-text-gradient",
+            },
+            {
+                name: "javaScipt",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "vite",
+                color: "orange-text-gradient",
+            },
+            {
+                name: "tailwind",
+                color: "green-text-gradient",
+            },
+        ],
+        image: nike,
+        source_code_link: "https://yaroslavskrypnyk23.github.io/NikeShop/",
+    },
+    {
+        name: "Brainwave AI Chat",
+        description:
+            "Explore the Possibilities of AI Chatting with BrainwaveCurve. Unleash the power of AI within Brainwave. Upgrade your productivity with Brainwave, the open AI chat app,that lets user quickly find answers to their questions.",
+        tags: [
+            {
+                name: "tailwind",
+                color: "green-text-gradient",
+            },
+            {
+                name: "javaScipt",
+                color: "yellow-text-gradient",
+            },
+            {
+                name: "vite",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "react",
+                color: "orange-text-gradient",
+            },
+        ],
+        image: brainwave,
+        source_code_link: "https://yaroslavskrypnyk23.github.io/BrainwaveWebSite/",
     },
 
 ];
